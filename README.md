@@ -1,5 +1,6 @@
 # Efficient-Route-Management-For-emergency-response-vehicle-using-A-Algortihm
 
+
 This project provides two main functionalities: visualizing a grid using images to represent different types of locations (e.g., buildings, streets) and implementing the A* pathfinding algorithm to find the shortest path in a grid. 
 
 ## Features
